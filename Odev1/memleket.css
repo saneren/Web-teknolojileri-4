@@ -1,0 +1,46 @@
+header
+{
+    text-align: center;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 1vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    color: darkblue;
+    background: linear-gradient(90deg, white 0%, rgba(238,252,255,1) 50%, white 100%);
+}
+#general-paragraph
+{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, rgba(148,187,233,0.5) , white);
+    border-radius: 0.5vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    padding-top: 1vw;
+    padding-bottom: 2vw;
+}
+.paragraph-span
+{
+    color: darkorchid;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table
+{
+    width: 100%;
+    text-align: center;
+}
+tr th
+{
+    color: midnightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid darkred;
+}
+tr td
+{
+    text-align: justify;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    border: 2px solid darkred;
+    
+}
